@@ -30,7 +30,7 @@ LETTER_TO_MORSE = {
 
 def encode(message):
     """
-    Кодирует строку в соответсвии с таблицей азбуки Морзе
+    
     >>> encode('B'*30) # doctest: +ELLIPSIS
     '-... ... -...'
     >>> encode('JK')
