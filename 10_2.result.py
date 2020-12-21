@@ -14,7 +14,7 @@ COMMAND: python -m pytest 10.2.py
 OUTPUT:
 ============================================================================= test session starts =============================================================================
 platform darwin -- Python 3.7.9, pytest-6.1.1, py-1.9.0, pluggy-0.13.1
-rootdir: /Users/Alina/Desktop
+rootdir: /Users/Desktop
 collected 3 items
 
 10.2.py ...                                                                                                                                                           [100%]
