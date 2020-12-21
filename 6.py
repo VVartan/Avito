@@ -66,7 +66,7 @@ class CountVectorizer():
                 anothr.append(sentence.split().count(i))
             new_dic.append(anothr)
 
-      return final
+      return anothr
 
 
 if __name__ == '__main__':
